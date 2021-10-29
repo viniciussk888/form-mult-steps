@@ -13,4 +13,4 @@ context API,
 
 ## 🆙 Demo
 
-<img src="https://user-images.githubusercontent.com/30902898/137135870-d0ab631e-f494-4025-85b2-eb2e92eb145e.gif" width="250px">
+<img src="https://user-images.githubusercontent.com/30902898/139444281-e6a5d136-102a-40cc-acbd-61d81f8110ec.gif" width="250px">
