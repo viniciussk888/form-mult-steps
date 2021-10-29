@@ -1,9 +1,9 @@
 import { BrowserRouter, Route } from "react-router-dom";
 
 //pages
-import { FormStep1 } from "./pages/formStep1";
-import { FormStep2 } from "./pages/formStep2";
-import { FormStep3 } from "./pages/formStep3";
+import { FormStep1 } from "./pages/FormStep1";
+import { FormStep2 } from "./pages/FormStep2";
+import { FormStep3 } from "./pages/FormStep3";
 
 export const Router = () => {
   return (
